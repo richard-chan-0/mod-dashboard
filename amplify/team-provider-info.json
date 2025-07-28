@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moddashboard-dev-2eb1f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::582139845068:role/amplify-moddashboard-dev-2eb1f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::582139845068:role/amplify-moddashboard-dev-2eb1f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-moddashboard-dev-2eb1f-deployment",
+      "UnauthRoleName": "amplify-moddashboard-dev-2eb1f-unauthRole",
+      "StackName": "amplify-moddashboard-dev-2eb1f",
+      "StackId": "arn:aws:cloudformation:us-east-1:582139845068:stack/amplify-moddashboard-dev-2eb1f/73170560-6bd5-11f0-8c28-0afff91c1f23",
+      "AmplifyAppId": "d1ce2xrrv9l452"
+    }
+  }
+}
